@@ -1,6 +1,6 @@
 # A Review of Adversarial Attack and Defense for Classification Methods
 
-Authors: [Yao Li](https://liyao880.github.io/yaoli/), [Minhao Cheng](https://cmhcbb.github.io/), [Cho-Jui Hsieh](http://web.cs.ucla.edu/~chohsieh/index.html), [Thomas C. M. Lee](https://anson.ucdavis.edu/~tcmlee/)
+Authors: Anonymous for review purpose
 
 ## Overview
 
